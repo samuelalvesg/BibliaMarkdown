@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Gerar Arquivos de Capítulos da Bíblia</title>
+    <script src='./sql-asm-debug.js'></script>
+    <script src="./jszip.min.js"></script>
+</head>
+<body>
+    <h1>Gerar Arquivos de Capítulos da Bíblia</h1>
+    <input type="file" id="fileInput" multiple>
+    <button onclick="gerarArquivosCapitulos()">Gerar Arquivos de Capítulos</button>
+    <script>
+	function removerAcentosEspeciais(input) {
+    const acentos = 'ÀÁÂÃÄÅàáâãäåÒÓÔÕÖØòóôõöøÈÉÊËèéêëÇçÌÍÎÏìíîïÙÚÛÜùúûüÿÑñ';
+    const semAcentos = 'AAAAAAaaaaaaOOOOOOooooooEEEEeeeeCcIIIIiiiiUUUUuuuuyNn';
+    const mapa = {};
+
+    for(let i = 0; i < acentos.length; i++) {
+        mapa[acentos[i]] = semAcentos[i];
+    }
+
+    return input.replace(/[^a-zA-Z0-9]/g, function(s) {
+       return mapa[s] || '_';
+    });
+}
+
+        function gerarArquivosCapitulos() {
+            const fileInput = document.getElementById("fileInput");
+            const files = fileInput.files;
+            if (files.length === 0) {
+                alert("Selecione um ou mais arquivos da Bíblia.");
+                return;
+            }
+
+            const zip = new JSZip();
+
+            processarArquivos(0, files, zip);
+        }
+
+        function processarArquivos(index, files, zip) {
+            if (index >= files.length) {
+                // Gerar o arquivo zip contendo os arquivos Markdown
+                zip.generateAsync({
+                    type: "blob"
+                }).then(function(blob) {
+                    // Criar um link temporário para o arquivo zip e iniciar o download
+                    const url = URL.createObjectURL(blob);
+                    const link = document.createElement("a");
+                    link.href = url;
+                    console.log("Salvando arquivo zip");
+                    link.download = "bible_files.zip";
+                    link.click();
+                    // Revogar a URL após o download ser concluído
+                    URL.revokeObjectURL(url);
+                }).catch(function(error) {
+                    console.error("Erro ao criar o arquivo ZIP:", error);
+                });
+
+                return;
+            }
+
+            const file = files[index];
+            let Sqlfilename = file.name;
+            console.log(`Iniciando tratamento do arquivo ${Sqlfilename}`);
+            Sqlfilename = Sqlfilename.substring(0, Sqlfilename.lastIndexOf('.'));
+            const config = {
+                locateFile: filename => `./${filename}`
+            };
+            initSqlJs(config).then(function(SQL) {
+                const reader = new FileReader();
+                reader.onload = function(e) {
+                    const arrayBuffer = e.target.result;
+                    const db = new SQL.Database(new Uint8Array(arrayBuffer));
+                    // Consulta SQL para obter os versículos da tabela 'verse' junto com o nome do livro (b.name), o número do capítulo (v.chapter), o número do versículo (v.verse) e o texto do versículo (v.text).
+                    const query =    "SELECT "+
+                                        "v.book_id, "+
+                                        "b.name as book_name, " +
+                                        "v.chapter, "+
+                                        "v.verse, "+
+                                        "v.text "+
+                                    "FROM "+
+                                    "verse v " +
+                                    "JOIN book b " +
+                                        "ON v.book_id = b.id "+
+                                    "ORDER BY "+
+                                        "b.id, "+
+                                        "v.chapter, "+
+                                        "v.verse";
+                    const result = db.exec(query);
+                    // Objeto 'chapters' para armazenar os versículos organizados por livro e capítulo.
+                    const chapters = {};
+                    // Iterar pelos resultados da consulta SQL
+                    result[0].values.forEach(row => {
+                        // Obter o nome do livro, o número do capítulo, o número do versículo e o texto do versículo de cada linha do resultado.
+                        const bookName = row[1];
+                        const chapter = row[2];
+                        const verse = row[3];
+                        const text = row[4];
+                        // Verificar se o livro já existe no objeto 'chapters'; se não, cria uma entrada para ele.
+                        if (!chapters[bookName]) {
+                            chapters[bookName] = {};
+                        }
+                        // Verificar se o capítulo já existe no livro do objeto 'chapters'; se não, cria uma entrada para ele.
+                        if (!chapters[bookName][chapter]) {
+                            chapters[bookName][chapter] = [];
+                        }
+                        // Adicionar o texto do versículo ao capítulo do livro no objeto 'chapters'.
+                        chapters[bookName][chapter].push({
+                            verse,
+                            text
+                        });
+                    });
+                    
+					
+// Iterar pelos livros no objeto 'chapters'
+let index1 = 1;
+for (const bookName in chapters) {
+    // Limpar o nome do livro
+    const cleanBookName = removerAcentosEspeciais(bookName);
+
+    // Iterar pelos capítulos de cada livro
+    for (const chapter in chapters[bookName]) {
+        // Limpar o nome do capítulo
+        const cleanChapter = removerAcentosEspeciais(chapter);
+
+        // Criar o nome do arquivo no formato 'NomeDoLivro_Capitulo.md'
+        const folderBookName = `${index1.toLocaleString('en-US', {minimumIntegerDigits: 2,useGrouping: false})}-${cleanBookName}`;
+        const fileName = `${Sqlfilename}-${cleanBookName}-${cleanChapter}.md`;
+
+        // Criar o conteúdo do arquivo Markdown com as referências internas e o texto dos versículos.
+        const content = `# ${bookName} ${chapter}\n\n` + chapters[bookName][chapter].map(({
+            verse,
+            text
+        }) => `###### ${bookName} ${chapter}:${verse}\n\n${text}\n\n`).join('');
+
+        // Adicionar o arquivo ao zip com o nome e conteúdo criados.
+        zip.file(`${Sqlfilename}/${folderBookName}/${fileName}`, content);
+    }
+    index1++;
+}
+
+                    // Processar o próximo arquivo
+                    processarArquivos(index + 1, files, zip);
+
+                    // Limpar a memória
+                    db.close();
+                    chapters = null;
+                    arrayBuffer = null;
+                };
+                // Ler o arquivo da Bíblia como um ArrayBuffer usando FileReader
+                reader.readAsArrayBuffer(file);
+            });
+        }
+    </script>
+</body>
+</html>

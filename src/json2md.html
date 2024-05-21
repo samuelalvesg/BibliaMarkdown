@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Converter JSON para Markdown</title>
+  <script src="./jszip.min.js"></script>
+  <script>
+  function removerAcentosEspeciais(input) {
+    const acentos = 'ÀÁÂÃÄÅàáâãäåÒÓÔÕÖØòóôõöøÈÉÊËèéêëÇçÌÍÎÏìíîïÙÚÛÜùúûüÿÑñ';
+    const semAcentos = 'AAAAAAaaaaaaOOOOOOooooooEEEEeeeeCcIIIIiiiiUUUUuuuuyNn';
+    const mapa = {};
+
+    for(let i = 0; i < acentos.length; i++) {
+        mapa[acentos[i]] = semAcentos[i];
+    }
+
+    return input.replace(/[^a-zA-Z0-9]/g, function(s) {
+       return mapa[s] || '_';
+    });
+}
+
+    function converterJsonParaMarkdown() {
+      const zip = new JSZip();
+      const fileInput = document.getElementById("fileInput");
+      const file = fileInput.files[0];
+
+      if (!file) {
+        alert("Selecione um arquivo JSON.");
+        return;
+      }
+
+      const reader = new FileReader();
+
+      reader.onload = function(e) {
+        const json = JSON.parse(e.target.result);
+        const fileName = file.name.split('.').slice(0, -1).join('.');
+		
+		json.books.forEach((book, index) => {
+		const bookName = book.name;
+		// Limpar o nome do livro
+		const cleanBookName = removerAcentosEspeciais(book.name);
+		const folderName = `${(index + 1).toLocaleString('en-US', { minimumIntegerDigits: 2, useGrouping: false })}-${cleanBookName}`;
+
+		book.chapters.forEach(chapter => {
+        const chapterNumber = chapter.chapter;
+        const fileName = `${file.name.split('.').slice(0, -1).join('.')}-${cleanBookName}-${chapterNumber}.md`;
+
+            let content = `# ${bookName} ${chapterNumber}\n\n`;
+
+            chapter.verses.forEach(verse => {
+              const verseNumber = verse.number;
+              const verseTitle = verse.title ? `##### ${verse.title}\n\n` : '';
+              const verseContent = verse.content;
+
+              content += `${verseTitle}##### ${bookName} ${chapterNumber}:${verseNumber}\n\n${verseContent}\n\n`;
+            });
+
+            if (!zip.folder(folderName)) {
+              zip.folder(folderName);
+            }
+            zip.folder(folderName).file(fileName, content);
+          });
+        });
+
+        zip.generateAsync({ type: "blob" })
+          .then(function(blob) {
+            const url = URL.createObjectURL(blob);
+            const link = document.createElement("a");
+            link.href = url;
+            link.download = `${fileName}.zip`; // Use o nome do arquivo JSON de entrada
+            link.click();
+
+            URL.revokeObjectURL(url);
+          })
+          .catch(function(error) {
+            console.error("Erro ao criar o arquivo ZIP:", error);
+          });
+      };
+
+      reader.readAsText(file);
+    }
+  </script>
+</head>
+<body>
+  <h1>Converter JSON para Markdown</h1>
+  <input type="file" id="fileInput">
+  <button onclick="converterJsonParaMarkdown()">Converter e Baixar</button>
+</body>
+</html>
