@@ -1,0 +1,142 @@
+# Lucas 14
+
+###### Lucas 14:1
+
+Aconteceu, num sábado, que, entrando ele em casa de um dos principais dos fariseus para comer pão, eles o estavam observando.
+
+###### Lucas 14:2
+
+E eis que estava ali diante dele um certo homem hidrópico.
+
+###### Lucas 14:3
+
+E Jesus, tomando a palavra, falou aos doutores da lei e aos fariseus, dizendo: É lícito curar no sábado?
+
+###### Lucas 14:4
+
+Eles, porém, calaram-se. E tomando-o, o curou e despediu.
+
+###### Lucas 14:5
+
+E disse-lhes: Qual será de vós o que, caindo-lhe num poço, em dia de sábado, o jumento ou o boi, o não tire logo?
+
+###### Lucas 14:6
+
+E nada lhe podiam replicar sobre isso.
+
+###### Lucas 14:7
+
+E disse aos convidados uma parábola, reparando como escolhiam os primeiros assentos, dizendo-lhes:
+
+###### Lucas 14:8
+
+Quando por alguém fores convidado às bodas, não te assentes no primeiro lugar, para que não aconteça que esteja convidado outro mais digno do que tu,
+
+###### Lucas 14:9
+
+e, vindo o que te convidou a ti e a ele, te diga: Dá o lugar a este; e então, com vergonha, tenhas de tomar o derradeiro lugar.
+
+###### Lucas 14:10
+
+Mas, quando fores convidado, vai e assenta-te no derradeiro lugar, para que, quando vier o que te convidou, te diga: Amigo, assenta-te mais para cima. Então, terás honra diante dos que estiverem contigo à mesa.
+
+###### Lucas 14:11
+
+Porquanto, qualquer que a si mesmo se exaltar será humilhado, e aquele que a si mesmo se humilhar será exaltado.
+
+###### Lucas 14:12
+
+E dizia também ao que o tinha convidado: Quando deres um jantar ou uma ceia, não chames os teus amigos, nem os teus irmãos, nem os teus parentes, nem vizinhos ricos, para que não suceda que também eles te tornem a convidar, e te seja isso recompensado.
+
+###### Lucas 14:13
+
+Mas, quando fizeres convite, chama os pobres, aleijados, mancos e cegos
+
+###### Lucas 14:14
+
+e serás bem-aventurado; porque eles não têm com que to recompensar; mas recompensado serás na ressurreição dos justos.
+
+###### Lucas 14:15
+
+E, ouvindo isso um dos que estavam com ele à mesa, disse-lhe: Bem-aventurado o que comer pão no Reino de Deus!
+
+###### Lucas 14:16
+
+Porém ele lhe disse: Um certo homem fez uma grande ceia e convidou a muitos.
+
+###### Lucas 14:17
+
+E, à hora da ceia, mandou o seu servo dizer aos convidados: Vinde, que já tudo está preparado.
+
+###### Lucas 14:18
+
+E todos à uma começaram a escusar-se. Disse-lhe o primeiro: Comprei um campo e preciso ir vê-lo; rogo-te que me hajas por escusado.
+
+###### Lucas 14:19
+
+E outro disse: Comprei cinco juntas de bois e vou experimentá-los; rogo-te que me hajas por escusado.
+
+###### Lucas 14:20
+
+E outro disse: Casei e, portanto, não posso ir.
+
+###### Lucas 14:21
+
+E, voltando aquele servo, anunciou essas coisas ao seu senhor. Então, o pai de família, indignado, disse ao seu servo: Sai depressa pelas ruas e bairros da cidade e traze aqui os pobres, e os aleijados, e os mancos, e os cegos.
+
+###### Lucas 14:22
+
+E disse o servo: Senhor, feito está como mandaste, e ainda há lugar.
+
+###### Lucas 14:23
+
+E disse o senhor ao servo: Sai pelos caminhos e atalhos e força-os a entrar, para que a minha casa se encha.
+
+###### Lucas 14:24
+
+Porque eu vos digo que nenhum daqueles varões que foram convidados provará a minha ceia.
+
+###### Lucas 14:25
+
+Ora, ia com ele uma grande multidão; e, voltando-se, disse-lhe:
+
+###### Lucas 14:26
+
+Se alguém vier a mim e não aborrecer a seu pai, e mãe, e mulher, e filhos, e irmãos, e irmãs, e ainda também a sua própria vida, não pode ser meu discípulo.
+
+###### Lucas 14:27
+
+E qualquer que não levar a sua cruz e não vier após mim não pode ser meu discípulo.
+
+###### Lucas 14:28
+
+Pois qual de vós, querendo edificar uma torre, não se assenta primeiro a fazer as contas dos gastos, para ver se tem com que a acabar?
+
+###### Lucas 14:29
+
+Para que não aconteça que, depois de haver posto os alicerces e não a podendo acabar, todos os que a virem comecem a escarnecer dele,
+
+###### Lucas 14:30
+
+dizendo: Este homem começou a edificar e não pôde acabar.
+
+###### Lucas 14:31
+
+Ou qual é o rei que, indo à guerra a pelejar contra outro rei, não se assenta primeiro a tomar conselho sobre se com dez mil pode sair ao encontro do que vem contra ele com vinte mil?
+
+###### Lucas 14:32
+
+De outra maneira, estando o outro ainda longe, manda embaixadores e pede condições de paz.
+
+###### Lucas 14:33
+
+Assim, pois, qualquer de vós que não renuncia a tudo quanto tem não pode ser meu discípulo.
+
+###### Lucas 14:34
+
+Bom é o sal, mas, se ele degenerar, com que se adubará?
+
+###### Lucas 14:35
+
+Nem presta para a terra, nem para o monturo; lançam-no fora. Quem tem ouvidos para ouvir, que ouça.
+

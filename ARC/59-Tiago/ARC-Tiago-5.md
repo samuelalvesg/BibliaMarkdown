@@ -1,0 +1,82 @@
+# Tiago 5
+
+###### Tiago 5:1
+
+Eia, pois, agora vós, ricos, chorai e pranteai por vossas misérias, que sobre vós hão de vir.
+
+###### Tiago 5:2
+
+As vossas riquezas estão apodrecidas, e as vossas vestes estão comidas da traça.
+
+###### Tiago 5:3
+
+O vosso ouro e a vossa prata se enferrujaram; e a sua ferrugem dará testemunho contra vós e comerá como fogo a vossa carne. Entesourastes para os últimos dias.
+
+###### Tiago 5:4
+
+Eis que o salário dos trabalhadores que ceifaram as vossas terras e que por vós foi diminuído clama; e os clamores dos que ceifaram entraram nos ouvidos do Senhor dos Exércitos.
+
+###### Tiago 5:5
+
+Deliciosamente, vivestes sobre a terra, e vos deleitastes, e cevastes o vosso coração, como num dia de matança.
+
+###### Tiago 5:6
+
+Condenastes e matastes o justo; ele não vos resistiu.
+
+###### Tiago 5:7
+
+Sede, pois, irmãos, pacientes até a vinda do Senhor. Eis que o lavrador espera o precioso fruto da terra, aguardando-o com paciência, até que receba a chuva temporã e serôdia.
+
+###### Tiago 5:8
+
+Sede vós também pacientes, fortalecei o vosso coração, porque já a vinda do Senhor está próxima.
+
+###### Tiago 5:9
+
+Irmãos, não vos queixeis uns contra os outros, para que não sejais condenados. Eis que o juiz está à porta.
+
+###### Tiago 5:10
+
+Meus irmãos, tomai por exemplo de aflição e paciência os profetas que falaram em nome do Senhor.
+
+###### Tiago 5:11
+
+Eis que temos por bem-aventurados os que sofreram. Ouvistes qual foi a paciência de Jó e vistes o fim que o Senhor lhe deu; porque o Senhor é muito misericordioso e piedoso.
+
+###### Tiago 5:12
+
+Mas, sobretudo, meus irmãos, não jureis nem pelo céu nem pela terra, nem façais qualquer outro juramento; mas que a vossa palavra seja sim, sim e não, não, para que não caiais em condenação.
+
+###### Tiago 5:13
+
+Está alguém entre vós aflito? Ore. Está alguém contente? Cante louvores.
+
+###### Tiago 5:14
+
+Está alguém entre vós doente? Chame os presbíteros da igreja, e orem sobre ele, ungindo-o com azeite em nome do Senhor;
+
+###### Tiago 5:15
+
+e a oração da fé salvará o doente, e o Senhor o levantará; e, se houver cometido pecados, ser-lhe-ão perdoados.
+
+###### Tiago 5:16
+
+Confessai as vossas culpas uns aos outros e orai uns pelos outros, para que sareis; a oração feita por um justo pode muito em seus efeitos.
+
+###### Tiago 5:17
+
+Elias era homem sujeito às mesmas paixões que nós e, orando, pediu que não chovesse, e, por três anos e seis meses, não choveu sobre a terra.
+
+###### Tiago 5:18
+
+E orou outra vez, e o céu deu chuva, e a terra produziu o seu fruto.
+
+###### Tiago 5:19
+
+Irmãos, se algum de entre vós se tem desviado da verdade, e alguém o converter,
+
+###### Tiago 5:20
+
+saiba que aquele que fizer converter do erro do seu caminho um pecador salvará da morte uma alma e cobrirá uma multidão de pecados.
+

@@ -1,0 +1,14 @@
+# Ester 10
+
+###### Ester 10:1
+
+Depois disto, o rei Assuero impôs tributo sobre a terra e sobre as terras do mar.
+
+###### Ester 10:2
+
+Quanto aos demais atos do seu poder e do seu valor e ao relatório completo da grandeza de Mordecai, a quem o rei exaltou, não está tudo escrito no Livro da História dos Reis da Média e da Pérsia?
+
+###### Ester 10:3
+
+Pois o judeu Mordecai foi o segundo depois do rei Assuero, e grande para com os judeus, e estimado pela multidão de seus irmãos, tendo procurado o bem-estar do seu povo e trabalhado pela prosperidade da sua nação.
+

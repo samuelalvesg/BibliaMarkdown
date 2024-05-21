@@ -1,0 +1,154 @@
+# Mateus 9
+
+###### Mateus 9:1
+
+E, entrando no barco, passou para a outra margem, e chegou à sua cidade. E eis que lhe trouxeram um paralítico deitado numa cama.
+
+###### Mateus 9:2
+
+E Jesus, vendo a fé deles, disse ao paralítico: Filho, tem bom ânimo; perdoados te são os teus pecados.
+
+###### Mateus 9:3
+
+E eis que alguns dos escribas diziam entre si: Ele blasfema.
+
+###### Mateus 9:4
+
+Mas Jesus, conhecendo os seus pensamentos, disse: Por que pensais mal em vosso coração?
+
+###### Mateus 9:5
+
+Pois o que é mais fácil? Dizer ao paralítico: Perdoados te são os teus pecados, ou: Levanta-te e anda?
+
+###### Mateus 9:6
+
+Ora, para que saibais que o Filho do Homem tem na terra autoridade para perdoar pecados — disse então ao paralítico: Levanta-te, toma a tua cama e vai para tua casa.
+
+###### Mateus 9:7
+
+E, levantando-se, foi para sua casa.
+
+###### Mateus 9:8
+
+E a multidão, vendo isso, maravilhou-se e glorificou a Deus, que dera tal poder aos homens.
+
+###### Mateus 9:9
+
+E Jesus, passando adiante dali, viu assentado na alfândega um homem chamado Mateus e disse-lhe: Segue-me. E ele, levantando-se, o seguiu.
+
+###### Mateus 9:10
+
+E aconteceu que, estando ele em casa sentado à mesa, chegaram muitos publicanos e pecadores e sentaram-se juntamente com Jesus e seus discípulos.
+
+###### Mateus 9:11
+
+E os fariseus, vendo isso, disseram aos seus discípulos: Por que come o vosso Mestre com os publicanos e pecadores?
+
+###### Mateus 9:12
+
+Jesus, porém, ouvindo, disse-lhes: Não necessitam de médico os sãos, mas sim, os doentes.
+
+###### Mateus 9:13
+
+Ide, porém, e aprendei o que significa: Misericórdia quero e não sacrifício. Porque eu não vim para chamar os justos, mas os pecadores, ao arrependimento.
+
+###### Mateus 9:14
+
+Então, chegaram ao pé dele os discípulos de João, dizendo: Por que jejuamos nós, e os fariseus, muitas vezes, e os teus discípulos não jejuam?
+
+###### Mateus 9:15
+
+E disse-lhes Jesus: Podem, porventura, andar tristes os filhos das bodas, enquanto o esposo está com eles? Dias, porém, virão em que lhes será tirado o esposo, e então jejuarão.
+
+###### Mateus 9:16
+
+Ninguém deita remendo de pano novo em veste velha, porque semelhante remendo rompe a veste, e faz-se maior a rotura.
+
+###### Mateus 9:17
+
+Nem se deita vinho novo em odres velhos; aliás, rompem-se os odres, e entorna-se o vinho, e os odres estragam-se; mas deita-se vinho novo em odres novos, e assim ambos se conservam.
+
+###### Mateus 9:18
+
+Dizendo-lhes ele essas coisas, eis que chegou um chefe e o adorou, dizendo: Minha filha faleceu agora mesmo; mas vem, impõe-lhe a tua mão, e ela viverá.
+
+###### Mateus 9:19
+
+E Jesus, levantando-se, seguiu-o, e os seus discípulos também.
+
+###### Mateus 9:20
+
+E eis que uma mulher que havia já doze anos padecia de um fluxo de sangue, chegando por detrás dele, tocou a orla da sua veste,
+
+###### Mateus 9:21
+
+porque dizia consigo: Se eu tão somente tocar a sua veste, ficarei sã.
+
+###### Mateus 9:22
+
+E Jesus, voltando-se e vendo-a, disse: Tem ânimo, filha, a tua fé te salvou. E imediatamente a mulher ficou sã.
+
+###### Mateus 9:23
+
+E Jesus, chegando à casa daquele chefe, e vendo os instrumentistas e o povo em alvoroço,
+
+###### Mateus 9:24
+
+disse-lhes: Retirai-vos, que a menina não está morta, mas dorme. E riram-se dele.
+
+###### Mateus 9:25
+
+E, logo que o povo foi posto fora, entrou Jesus e pegou-lhe na mão, e a menina levantou-se.
+
+###### Mateus 9:26
+
+E espalhou-se aquela notícia por todo aquele país.
+
+###### Mateus 9:27
+
+E, partindo Jesus dali, seguiram-no dois cegos, clamando e dizendo: Tem compaixão de nós, Filho de Davi.
+
+###### Mateus 9:28
+
+E, quando chegou à casa, os cegos se aproximaram dele; e Jesus disse-lhes: Credes vós que eu possa fazer isto? Disseram-lhe eles: Sim, Senhor.
+
+###### Mateus 9:29
+
+Tocou, então, os olhos deles, dizendo: Seja-vos feito segundo a vossa fé.
+
+###### Mateus 9:30
+
+E os olhos se lhes abriram. E Jesus ameaçou-os, dizendo: Olhai que ninguém o saiba.
+
+###### Mateus 9:31
+
+Mas, tendo ele saído, divulgaram a sua fama por toda aquela terra.
+
+###### Mateus 9:32
+
+E, havendo-se eles retirado, trouxeram-lhe um homem mudo e endemoninhado.
+
+###### Mateus 9:33
+
+E, expulso o demônio, falou o mudo; e a multidão se maravilhou, dizendo: Nunca tal se viu em Israel.
+
+###### Mateus 9:34
+
+Mas os fariseus diziam: Ele expulsa os demônios pelo príncipe dos demônios.
+
+###### Mateus 9:35
+
+E percorria Jesus todas as cidades e aldeias, ensinando nas sinagogas deles, e pregando o evangelho do Reino, e curando todas as enfermidades e moléstias entre o povo.
+
+###### Mateus 9:36
+
+E, vendo a multidão, teve grande compaixão deles, porque andavam desgarrados e errantes como ovelhas que não têm pastor.
+
+###### Mateus 9:37
+
+Então, disse aos seus discípulos: A seara é realmente grande, mas poucos são os ceifeiros.
+
+###### Mateus 9:38
+
+Rogai, pois, ao Senhor da seara que mande ceifeiros para a sua seara.
+

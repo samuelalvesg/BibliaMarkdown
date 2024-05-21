@@ -1,0 +1,86 @@
+# Apocalipse 19
+
+###### Apocalipse 19:1
+
+E, depois destas coisas, ouvi no céu como que uma grande voz de uma grande multidão, que dizia: Aleluia! Salvação, e glória, e honra, e poder pertencem ao Senhor, nosso Deus,
+
+###### Apocalipse 19:2
+
+porque verdadeiros e justos são os seus juízos, pois julgou a grande prostituta, que havia corrompido a terra com a sua prostituição, e das mãos dela vingou o sangue dos seus servos.
+
+###### Apocalipse 19:3
+
+E outra vez disseram: Aleluia! E a fumaça dela sobe para todo o sempre.
+
+###### Apocalipse 19:4
+
+E os vinte e quatro anciãos e os quatro animais prostraram-se e adoraram a Deus, assentado no trono, dizendo: Amém! Aleluia!
+
+###### Apocalipse 19:5
+
+E saiu uma voz do trono, que dizia: Louvai o nosso Deus, vós, todos os seus servos, e vós que o temeis, tanto pequenos como grandes.
+
+###### Apocalipse 19:6
+
+E ouvi como que a voz de uma grande multidão, e como que a voz de muitas águas, e como que a voz de grandes trovões, que dizia: Aleluia! Pois já o Senhor, Deus Todo-Poderoso, reina.
+
+###### Apocalipse 19:7
+
+Regozijemo-nos, e alegremo-nos, e demos-lhe glória, porque vindas são as bodas do Cordeiro, e já a sua esposa se aprontou.
+
+###### Apocalipse 19:8
+
+E foi-lhe dado que se vestisse de linho fino, puro e resplandecente; porque o linho fino são as justiças dos santos.
+
+###### Apocalipse 19:9
+
+E disse-me: Escreve: Bem-aventurados aqueles que são chamados à ceia das bodas do Cordeiro. E disse-me: Estas são as verdadeiras palavras de Deus.
+
+###### Apocalipse 19:10
+
+E eu lancei-me a seus pés para o adorar, mas ele disse-me: Olha, não faças tal; sou teu conservo e de teus irmãos que têm o testemunho de Jesus; adora a Deus; porque o testemunho de Jesus é o espírito de profecia.
+
+###### Apocalipse 19:11
+
+E vi o céu aberto, e eis um cavalo branco. O que estava assentado sobre ele chama-se Fiel e Verdadeiro e julga e peleja com justiça.
+
+###### Apocalipse 19:12
+
+E os seus olhos eram como chama de fogo; e sobre a sua cabeça havia muitos diademas; e tinha um nome escrito que ninguém sabia, senão ele mesmo.
+
+###### Apocalipse 19:13
+
+E estava vestido de uma veste salpicada de sangue, e o nome pelo qual se chama é a Palavra de Deus.
+
+###### Apocalipse 19:14
+
+E seguiam-no os exércitos que há no céu em cavalos brancos e vestidos de linho fino, branco e puro.
+
+###### Apocalipse 19:15
+
+E da sua boca saía uma aguda espada, para ferir com ela as nações; e ele as regerá com vara de ferro e ele mesmo é o que pisa o lagar do vinho do furor e da ira do Deus Todo-Poderoso.
+
+###### Apocalipse 19:16
+
+E na veste e na sua coxa tem escrito este nome: REI DOS REIS E SENHOR DOS SENHORES.
+
+###### Apocalipse 19:17
+
+E vi um anjo que estava no sol, e clamou com grande voz, dizendo a todas as aves que voavam pelo meio do céu: Vinde e ajuntai-vos à ceia do grande Deus,
+
+###### Apocalipse 19:18
+
+para que comais a carne dos reis, e a carne dos tribunos, e a carne dos fortes, e a carne dos cavalos e dos que sobre eles se assentam, e a carne de todos os homens, livres e servos, pequenos e grandes.
+
+###### Apocalipse 19:19
+
+E vi a besta, e os reis da terra, e os seus exércitos reunidos, para fazerem guerra àquele que estava assentado sobre o cavalo e ao seu exército.
+
+###### Apocalipse 19:20
+
+E a besta foi presa e, com ela, o falso profeta, que, diante dela, fizera os sinais com que enganou os que receberam o sinal da besta e adoraram a sua imagem. Estes dois foram lançados vivos no ardente lago de fogo e de enxofre.
+
+###### Apocalipse 19:21
+
+E os demais foram mortos com a espada que saía da boca do que estava assentado sobre o cavalo, e todas as aves se fartaram das suas carnes.
+

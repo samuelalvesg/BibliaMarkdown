@@ -1,0 +1,98 @@
+# Josué 12
+
+###### Josué 12:1
+
+ESTES, pois, são os reis da terra, aos quais os filhos de Israel feriram e cujas terras possuíram além do Jordão para o nascente do sol, desde o ribeiro de Arnom, até ao monte de Hermom, e toda a planície do oriente,
+
+###### Josué 12:2
+
+Siom, rei dos amorreus, que habitava em Hesbom e que dominava desde Aroer, que está à beira do ribeiro de Arnom, e desde o meio do ribeiro, e a metade de Gileade, e até ao ribeiro de Jaboque, o termo dos filhos de Amom.
+
+###### Josué 12:3
+
+E desde a campina até ao mar de Quinerete para o oriente, e até ao mar da campina, o Mar Salgado para o oriente, pelo caminho de Bete-Jesimote; e desde o sul, abaixo de Asdote-Pisga.
+
+###### Josué 12:4
+
+Como também o termo de Ogue, rei de Basã que era do restante dos gigantes e que habitava em Astarote e em Edrei;
+
+###### Josué 12:5
+
+E dominava no monte Hermom, e em Salcá, e em toda a Basã, até ao termo dos gesureus e dos maacateus, e metade de Gileade, termo de Siom, rei de Hesbom.
+
+###### Josué 12:6
+
+A estes Moisés, servo do SENHOR, e os filhos de Israel, feriram; e Moisés, servo do SENHOR, deu esta terra em possessão aos rubenitas, e aos gaditas, e à meia tribo de Manassés.
+
+###### Josué 12:7
+
+E estes são os reis da terra aos quais Josué e os filhos de Israel feriram aquém do Jordão para o ocidente, desde Baal-Gade, no vale do Líbano, até ao monte Halaque, que sobe a Seir; e Josué a deu às tribos de Israel em possessão, segundo as suas divisões.
+
+###### Josué 12:8
+
+O que havia nas montanhas, e nas planícies, e nas campinas, e nas descidas das águas, e no deserto, e para o sul: o heteu, o amorreu, e o cananeu, o perizeu, o heveu, e o jebuseu.
+
+###### Josué 12:9
+
+O rei de Jericó, um; o rei de Ai, que está ao lado de Betel, outro;
+
+###### Josué 12:10
+
+O rei de Jerusalém, outro; o rei de Hebrom, outro;
+
+###### Josué 12:11
+
+O rei de Jarmute, outro; o rei de Laquis, outro;
+
+###### Josué 12:12
+
+O rei de Eglom, outro; o rei de Geser, outro;
+
+###### Josué 12:13
+
+O rei de Debir, outro; o rei de Geder, outro;
+
+###### Josué 12:14
+
+O rei de Hormá, outro; o rei de Harade, outro;
+
+###### Josué 12:15
+
+O rei de Libna, outro; o rei de Adulão, outro;
+
+###### Josué 12:16
+
+O rei de Maquedá, outro; o rei de Betel, outro;
+
+###### Josué 12:17
+
+O rei de Tapua, outro; o rei de Hefer, outro;
+
+###### Josué 12:18
+
+O rei de Afeque, outro; o rei de Lassarom, outro;
+
+###### Josué 12:19
+
+O rei de Madom, outro; o rei de Hazor, outro;
+
+###### Josué 12:20
+
+O rei de Sinrom-Meron, outro; o rei de Acsafe, outro;
+
+###### Josué 12:21
+
+O rei de Taanaque, outro; o rei de Megido, outro;
+
+###### Josué 12:22
+
+O rei de Quedes, outro; o rei de Jocneão do Carmelo, outro;
+
+###### Josué 12:23
+
+O rei de Dor no outeiro de Dor, outro; o rei de Goiim em Gilgal, outro;
+
+###### Josué 12:24
+
+O rei de Tirza, outro; trinta e um reis ao todo.
+

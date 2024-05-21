@@ -1,0 +1,70 @@
+# Apocalipse 7
+
+###### Apocalipse 7:1
+
+Depois disto vi quatro anjos em pé nos quatro cantos da terra, retendo os quatro ventos da terra, para que nenhum vento soprasse sobre a terra, nem sobre o mar, nem contra árvore alguma.
+
+###### Apocalipse 7:2
+
+E vi outro anjo subir do lado do sol nascente, tendo o selo do Deus vivo; e clamou com grande voz aos quatro anjos, quem fora dado que danificassem a terra e o mar,
+
+###### Apocalipse 7:3
+
+dizendo: Não danifiques a terra, nem o mar, nem as árvores, até que selemos na sua fronte os servos do nosso Deus.
+
+###### Apocalipse 7:4
+
+E ouvi o número dos que foram assinalados com o selo, cento e quarenta e quatro mil de todas as tribos dos filhos de Israel:
+
+###### Apocalipse 7:5
+
+da tribo de Judá havia doze mil assinalados; da tribo de Rúben, doze mil; da tribo de Gade, doze mil;
+
+###### Apocalipse 7:6
+
+da tribo de Aser, doze mil; da tribo de Naftali, doze mil; da tribo de Manassés, doze mil;
+
+###### Apocalipse 7:7
+
+da tribo de Simeão, doze mil; da tribo de Levi, doze mil; da tribo de Issacar, doze mil;
+
+###### Apocalipse 7:8
+
+da tribo de Zabulom, doze mil; da tribo de José, doze mil; da tribo de Benjamim, doze mil assinalados.
+
+###### Apocalipse 7:9
+
+Depois destas coisas olhei, e eis uma grande multidão, que ninguém podia contar, de todas as nações, tribos, povos e línguas, que estavam em pé diante do trono e em presença do Cordeiro, trajando compridas vestes brancas, e com palmas nas mãos;
+
+###### Apocalipse 7:10
+
+e clamavam com grande voz: Salvação ao nosso Deus, que está assentado sobre o trono, e ao Cordeiro.
+
+###### Apocalipse 7:11
+
+E todos os anjos estavam em pé ao redor do trono e dos anciãos e dos quatro seres viventes, e prostraram-se diante do trono sobre seus rostos, e adoraram a Deus,
+
+###### Apocalipse 7:12
+
+dizendo: Amém. Louvor, e glória, e sabedoria, e ações de graças, e honra, e poder, e força ao nosso Deus, pelos séculos dos séculos. Amém.
+
+###### Apocalipse 7:13
+
+E um dos anciãos me perguntou: Estes que trajam as compridas vestes brancas, quem são eles e donde vieram?
+
+###### Apocalipse 7:14
+
+Respondi-lhe: Meu Senhor, tu sabes. Disse-me ele: Estes são os que vêm da grande tribulação, e levaram as suas vestes e as branquearam no sangue do Cordeiro.
+
+###### Apocalipse 7:15
+
+Por isso estão diante do trono de Deus, e o servem de dia e de noite no seu santuário; e aquele que está assentado sobre o trono estenderá o seu tabernáculo sobre eles.
+
+###### Apocalipse 7:16
+
+Nunca mais terão fome, nunca mais terão sede; nem cairá sobre eles o sol, nem calor algum;
+
+###### Apocalipse 7:17
+
+porque o Cordeiro que está no meio, diante do trono, os apascentará e os conduzirá às fontes das águas da vida; e Deus lhes enxugará dos olhos toda lágrima.
+

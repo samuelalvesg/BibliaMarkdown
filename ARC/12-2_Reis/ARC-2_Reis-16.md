@@ -1,0 +1,82 @@
+# 2 Reis 16
+
+###### 2 Reis 16:1
+
+No ano dezessete de Peca, filho de Remalias, começou a reinar Acaz, filho de Jotão, rei de Judá.
+
+###### 2 Reis 16:2
+
+Tinha Acaz vinte anos de idade quando começou a reinar, e reinou dezesseis anos em Jerusalém, e não fez o que era reto aos olhos do SENHOR, seu Deus, como Davi, seu pai.
+
+###### 2 Reis 16:3
+
+Porque andou no caminho dos reis de Israel e até a seu filho fez passar pelo fogo, segundo as abominações dos gentios, que o SENHOR lançara fora de diante dos filhos de Israel.
+
+###### 2 Reis 16:4
+
+Também sacrificou e queimou incenso nos altos e nos outeiros, como também debaixo de todo arvoredo.
+
+###### 2 Reis 16:5
+
+Então, subiu Rezim, rei da Síria, com Peca, filho de Remalias, rei de Israel, a Jerusalém, à peleja; e cercaram Acaz, porém não o puderam vencer.
+
+###### 2 Reis 16:6
+
+Naquele mesmo tempo, Rezim, rei da Síria, restituiu Elate à Síria e lançou fora de Elate os judeus; e os siros vieram a Elate e habitaram ali até ao dia de hoje.
+
+###### 2 Reis 16:7
+
+E Acaz enviou mensageiros a Tiglate-Pileser, rei da Assíria, dizendo: Eu sou teu servo e teu filho; sobe e livra-me das mãos do rei da Síria e das mãos do rei de Israel, que se levantam contra mim.
+
+###### 2 Reis 16:8
+
+E tomou Acaz a prata e o ouro que se achou na Casa do SENHOR e nos tesouros da casa do rei e mandou um presente ao rei da Assíria.
+
+###### 2 Reis 16:9
+
+E o rei da Assíria lhe deu ouvidos; pois o rei da Assíria subiu contra Damasco, e tomou-a, e levou o povo para Quir, e matou a Rezim.
+
+###### 2 Reis 16:10
+
+Então, o rei Acaz foi a Damasco, a encontrar-se com Tiglate-Pileser, rei da Assíria; e, vendo um altar que estava em Damasco, o rei Acaz enviou ao sacerdote Urias a aparência do altar e o modelo, conforme toda a sua obra.
+
+###### 2 Reis 16:11
+
+E Urias, o sacerdote, edificou um altar conforme tudo o que o rei Acaz tinha ordenado de Damasco; assim o fez o sacerdote Urias, antes que o rei Acaz viesse de Damasco.
+
+###### 2 Reis 16:12
+
+Vindo, pois, de Damasco o rei, viu o altar; e o rei se chegou ao altar e sacrificou nele.
+
+###### 2 Reis 16:13
+
+E queimou o seu holocausto e a sua oferta de manjares, e derramou a sua libação, e espargiu o sangue dos seus sacrifícios pacíficos naquele altar.
+
+###### 2 Reis 16:14
+
+Porém o altar de cobre, que estava perante o SENHOR, tirou ele de diante da casa, de entre o seu altar e a Casa do SENHOR e pô-lo ao lado do seu altar, da banda do norte.
+
+###### 2 Reis 16:15
+
+E o rei Acaz mandou a Urias, o sacerdote, dizendo: No grande altar, queima o holocausto da manhã, como também a oferta de manjares da noite, e o holocausto do rei, e a sua oferta de manjares, e o holocausto de todo o povo da terra, e a sua oferta de manjares, e as suas ofertas de bebida; e todo o sangue dos holocaustos, e todo o sangue dos sacrifícios espargirás nele; porém o altar de cobre será para mim, para inquirir dele.
+
+###### 2 Reis 16:16
+
+E fez Urias, o sacerdote, conforme tudo quanto o rei Acaz lhe ordenara.
+
+###### 2 Reis 16:17
+
+E o rei Acaz cortou as cintas das bases, e de cima delas tomou a pia, e o mar tirou-o de sobre os bois de cobre, que estavam debaixo dele, e pô-lo sobre um pavimento de pedra.
+
+###### 2 Reis 16:18
+
+Também a cobertura do sábado, que edificaram na casa, e a entrada de fora do rei retirou da Casa do SENHOR, por causa do rei da Assíria.
+
+###### 2 Reis 16:19
+
+Ora, o mais dos atos de Acaz e o que fez, porventura, não estão escritos no livro das Crônicas dos Reis de Judá?
+
+###### 2 Reis 16:20
+
+E dormiu Acaz com seus pais e foi sepultado junto a seus pais, na Cidade de Davi; e Ezequias, seu filho, reinou em seu lugar.
+

@@ -1,0 +1,66 @@
+# Eclesiastes 4
+
+###### Eclesiastes 4:1
+
+De novo olhei e vi toda a opressão que ocorre debaixo do sol: Vi as lágrimas dos oprimidos, mas não há quem os console; o poder está do lado dos seus opressores, e não há quem os console.
+
+###### Eclesiastes 4:2
+
+Por isso considerei os mortos mais felizes do que os vivos, pois estes ainda têm que viver!
+
+###### Eclesiastes 4:3
+
+No entanto, melhor do que ambos é aquele que ainda não nasceu, que não viu o mal que se faz debaixo do sol.
+
+###### Eclesiastes 4:4
+
+Descobri que todo trabalho e toda realização surgem da competição que existe entre as pessoas. Mas isso também é absurdo, é correr atrás do vento.
+
+###### Eclesiastes 4:5
+
+O tolo cruza os braços e destrói a própria vida.
+
+###### Eclesiastes 4:6
+
+Melhor é ter um punhado com tranquilidade do que dois punhados à custa de muito esforço e de correr atrás do vento.
+
+###### Eclesiastes 4:7
+
+Descobri ainda outra situação absurda debaixo do sol:
+
+###### Eclesiastes 4:8
+
+Havia um homem totalmente solitário; não tinha filho nem irmão. Trabalhava sem parar! Contudo, os seus olhos não se satisfaziam com a sua riqueza. Ele sequer perguntava: “Para quem estou trabalhando tanto, e por que razão deixo de me divertir?” Isso também é absurdo; é um trabalho por demais ingrato!
+
+###### Eclesiastes 4:9
+
+É melhor ter companhia do que estar sozinho, porque maior é a recompensa do trabalho de duas pessoas.
+
+###### Eclesiastes 4:10
+
+Se um cair, o amigo pode ajudá-lo a levantar-se. Mas pobre do homem que cai e não tem quem o ajude a levantar-se!
+
+###### Eclesiastes 4:11
+
+E, se dois dormirem juntos, vão manter-se aquecidos. Como, porém, manter-se aquecido sozinho?
+
+###### Eclesiastes 4:12
+
+Um homem sozinho pode ser vencido, mas dois conseguem defender-se. Um cordão de três dobras não se rompe com facilidade.
+
+###### Eclesiastes 4:13
+
+Melhor é um jovem pobre e sábio, do que um rei idoso e tolo, que já não aceita repreensão.
+
+###### Eclesiastes 4:14
+
+O jovem pode ter saído da prisão e chegado ao trono, ou pode ter nascido pobre no país daquele rei.
+
+###### Eclesiastes 4:15
+
+Percebi que, ainda assim, o povo que vivia debaixo do sol seguia o jovem, o sucessor do rei.
+
+###### Eclesiastes 4:16
+
+O número dos que aderiram a ele era incontável. A geração seguinte, porém, não ficou satisfeita com o sucessor. Isso também não faz sentido, é correr atrás do vento.
+

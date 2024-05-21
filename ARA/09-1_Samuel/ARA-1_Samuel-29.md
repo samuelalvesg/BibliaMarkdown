@@ -1,0 +1,46 @@
+# 1 Samuel 29
+
+###### 1 Samuel 29:1
+
+Ajuntaram os filisteus todos os seus exércitos em Afeca, e acamparam-se os israelitas junto à fonte que está em Jezreel.
+
+###### 1 Samuel 29:2
+
+Os príncipes dos filisteus se foram para lá com centenas e com milhares; e Davi e seus homens iam com Aquis, na retaguarda.
+
+###### 1 Samuel 29:3
+
+Disseram, então, os príncipes dos filisteus: Estes hebreus, que fazem aqui? Respondeu Aquis aos príncipes dos filisteus: Não é este Davi, o servo de Saul, rei de Israel, que esteve comigo há muitos dias ou anos? E coisa nenhuma achei contra ele desde o dia em que, tendo desertado, passou para mim, até ao dia de hoje.
+
+###### 1 Samuel 29:4
+
+Porém os príncipes dos filisteus muito se indignaram contra ele; e lhe disseram: Faze voltar este homem, para que torne ao lugar que lhe designaste e não desça conosco à batalha, para que não se faça nosso adversário no combate; pois de que outro modo se reconciliaria como o seu senhor? Não seria, porventura, com as cabeças destes homens?
+
+###### 1 Samuel 29:5
+
+Não é este aquele Davi, de quem uns aos outros respondiam nas danças, dizendo: Saul feriu os seus milhares, porém Davi, os seus dez milhares?
+
+###### 1 Samuel 29:6
+
+Então, Aquis chamou a Davi e lhe disse: Tão certo como vive o SENHOR, tu és reto, e me parece bem que tomes parte comigo nesta campanha; porque nenhum mal tenho achado em ti, desde o dia em que passaste para mim até ao dia de hoje; porém aos príncipes não agradas.
+
+###### 1 Samuel 29:7
+
+Volta, pois, agora, e volta em paz, para que não desagrades aos príncipes dos filisteus.
+
+###### 1 Samuel 29:8
+
+Então, Davi disse a Aquis: Porém que fiz eu? Ou que achaste no teu servo, desde o dia em que entrei para o teu serviço até hoje, para que não vá pelejar contra os inimigos do rei, meu senhor?
+
+###### 1 Samuel 29:9
+
+Respondeu, porém, Aquis e disse a Davi: Bem o sei; e que, na verdade, aos meus olhos és bom como um anjo de Deus; porém os príncipes dos filisteus disseram: Não suba este conosco à batalha.
+
+###### 1 Samuel 29:10
+
+Levanta-te, pois, amanhã de madrugada com os teus servos, que vieram contigo; e, levantando-vos, logo que haja luz, parti.
+
+###### 1 Samuel 29:11
+
+Então, Davi de madrugada se levantou, ele e os seus homens, para partirem e voltarem à terra dos filisteus. Os filisteus, porém, subiram a Jezreel.
+

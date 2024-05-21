@@ -1,0 +1,66 @@
+# Tito 1
+
+###### Tito 1:1
+
+Paulo, servo de Deus e apóstolo de Jesus Cristo, segundo a fé dos eleitos de Deus e o conhecimento da verdade, que é segundo a piedade,
+
+###### Tito 1:2
+
+em esperança da vida eterna, a qual Deus, que não pode mentir, prometeu antes dos tempos dos séculos,
+
+###### Tito 1:3
+
+mas, a seu tempo, manifestou a sua palavra pela pregação que me foi confiada segundo o mandamento de Deus, nosso Salvador,
+
+###### Tito 1:4
+
+a Tito, meu verdadeiro filho, segundo a fé comum: graça, misericórdia e paz, da parte de Deus Pai e da do Senhor Jesus Cristo, nosso Salvador.
+
+###### Tito 1:5
+
+Por esta causa te deixei em Creta, para que pusesses em boa ordem as coisas que ainda restam e, de cidade em cidade, estabelecesses presbíteros, como já te mandei:
+
+###### Tito 1:6
+
+aquele que for irrepreensível, marido de uma mulher, que tenha filhos fiéis, que não possam ser acusados de dissolução nem são desobedientes.
+
+###### Tito 1:7
+
+Porque convém que o bispo seja irrepreensível como despenseiro da casa de Deus, não soberbo, nem iracundo, nem dado ao vinho, nem espancador, nem cobiçoso de torpe ganância;
+
+###### Tito 1:8
+
+mas dado à hospitalidade, amigo do bem, moderado, justo, santo, temperante,
+
+###### Tito 1:9
+
+retendo firme a fiel palavra, que é conforme a doutrina, para que seja poderoso, tanto para admoestar com a sã doutrina como para convencer os contradizentes.
+
+###### Tito 1:10
+
+Porque há muitos desordenados, faladores, vãos e enganadores, principalmente os da circuncisão,
+
+###### Tito 1:11
+
+aos quais convém tapar a boca; homens que transtornam casas inteiras, ensinando o que não convém, por torpe ganância.
+
+###### Tito 1:12
+
+Um deles, seu próprio profeta, disse: Os cretenses são sempre mentirosos, bestas ruins, ventres preguiçosos.
+
+###### Tito 1:13
+
+Este testemunho é verdadeiro. Portanto, repreende-os severamente, para que sejam sãos na fé,
+
+###### Tito 1:14
+
+não dando ouvidos às fábulas judaicas, nem aos mandamentos de homens que se desviam da verdade.
+
+###### Tito 1:15
+
+Todas as coisas são puras para os puros, mas nada é puro para os contaminados e infiéis; antes, o seu entendimento e consciência estão contaminados.
+
+###### Tito 1:16
+
+Confessam que conhecem a Deus, mas negam-no com as obras, sendo abomináveis, e desobedientes, e reprovados para toda boa obra.
+

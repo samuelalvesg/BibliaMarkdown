@@ -1,0 +1,102 @@
+# Deuteronômio 6
+
+###### Deuteronômio 6:1
+
+Estes, pois, são os mandamentos, os estatutos e os preceitos que o Senhor teu Deus mandou ensinar-te, a fim de que os cumprisses na terra a que estás passando: para a possuíres;
+
+###### Deuteronômio 6:2
+
+para que temas ao Senhor teu Deus, e guardes todos os seus estatutos e mandamentos, que eu te ordeno, tu, e teu filho, e o filho de teu filho, todos os dias da tua vida, e para que se prolonguem os teus dias.
+
+###### Deuteronômio 6:3
+
+Ouve, pois, ó Israel, e atenta em que os guardes, para que te vá bem, e muito te multipliques na terra que mana leite e mel, como te prometeu o Senhor Deus de teus pais.
+
+###### Deuteronômio 6:4
+
+Ouve, ó Israel; o Senhor nosso Deus é o único Senhor.
+
+###### Deuteronômio 6:5
+
+Amarás, pois, ao Senhor teu Deus de todo o teu coração, de toda a tua alma e de todas as tuas forças.
+
+###### Deuteronômio 6:6
+
+E estas palavras, que hoje te ordeno, estarão no teu coração;
+
+###### Deuteronômio 6:7
+
+e as ensinarás a teus filhos, e delas falarás sentado em tua casa e andando pelo caminho, ao deitar-te e ao levantar-te.
+
+###### Deuteronômio 6:8
+
+Também as atarás por sinal na tua mão e te serão por frontais entre os teus olhos;
+
+###### Deuteronômio 6:9
+
+e as escreverás nos umbrais de tua casa, e nas tuas portas.
+
+###### Deuteronômio 6:10
+
+Quando, pois, o Senhor teu Deus te introduzir na terra que com juramento prometeu a teus pais, Abraão, Isaque e Jacó, que te daria, com grandes e boas cidades, que tu não edificaste,
+
+###### Deuteronômio 6:11
+
+e casas cheias de todo o bem, as quais tu não encheste, e poços cavados, que tu não cavaste, vinhas e olivais, que tu não plantaste, e quando comeres e te fartares;
+
+###### Deuteronômio 6:12
+
+guarda-te, que não te esqueças do Senhor, que te tirou da terra do Egito, da casa da servidão.
+
+###### Deuteronômio 6:13
+
+Temerás ao Senhor teu Deus e o servirás, e pelo seu nome jurarás.
+
+###### Deuteronômio 6:14
+
+Não seguirás outros deuses, os deuses dos povos que houver à roda de ti;
+
+###### Deuteronômio 6:15
+
+porque o Senhor teu Deus é um Deus zeloso no meio de ti; para que a ira do Senhor teu Deus não se acenda contra ti, e ele te destrua de sobre a face da terra.
+
+###### Deuteronômio 6:16
+
+Não tentareis o Senhor vosso Deus, como o tentastes em Massá.
+
+###### Deuteronômio 6:17
+
+Diligentemente guardarás os mandamentos do Senhor teu Deus, como também os seus testemunhos, e seus estatutos, que te ordenou.
+
+###### Deuteronômio 6:18
+
+Também praticarás o que é reto e bom aos olhos do Senhor, para que te vá bem, e entres, e possuas a boa terra, a qual o Senhor prometeu com juramento a teus pais;
+
+###### Deuteronômio 6:19
+
+para que lance fora de diante de ti todos os teus inimigos, como disse o Senhor.
+
+###### Deuteronômio 6:20
+
+Quando teu filho te perguntar no futuro, dizendo: Que significam os testemunhos, estatutos e preceitos que o Senhor nosso Deus vos ordenou?
+
+###### Deuteronômio 6:21
+
+responderás a teu filho: Éramos servos de Faraó no Egito, porém o Senhor, com mão forte, nos tirou de lá;
+
+###### Deuteronômio 6:22
+
+e, aos nossos olhos, o Senhor fez sinais e maravilhas grandes e penosas contra o Egito, contra Faraó e contra toda a sua casa;
+
+###### Deuteronômio 6:23
+
+mas nos tirou de lá, para nos introduzir e nos dar a terra que com juramento prometera a nossos pais.
+
+###### Deuteronômio 6:24
+
+Pelo que o Senhor nos ordenou que observássemos todos estes estatutos, que temêssemos o Senhor nosso Deus, para o nosso bem em todo o tempo, a fim de que ele nos preservasse em vida, assim como hoje se vê.
+
+###### Deuteronômio 6:25
+
+E será justiça para nós, se tivermos cuidado de cumprir todos estes mandamentos perante o Senhor nosso Deus, como ele nos ordenou.
+

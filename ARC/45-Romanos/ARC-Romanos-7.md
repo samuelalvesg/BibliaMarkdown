@@ -1,0 +1,102 @@
+# Romanos 7
+
+###### Romanos 7:1
+
+Não sabeis vós, irmãos (pois que falo aos que sabem a lei), que a lei tem domínio sobre o homem por todo o tempo que vive?
+
+###### Romanos 7:2
+
+Porque a mulher que está sujeita ao marido, enquanto ele viver, está-lhe ligada pela lei; mas, morto o marido, está livre da lei do marido.
+
+###### Romanos 7:3
+
+De sorte que, vivendo o marido, será chamada adúltera se for doutro marido; mas, morto o marido, livre está da lei e assim não será adúltera se for doutro marido.
+
+###### Romanos 7:4
+
+Assim, meus irmãos, também vós estais mortos para a lei pelo corpo de Cristo, para que sejais doutro, daquele que ressuscitou de entre os mortos, a fim de que demos fruto para Deus.
+
+###### Romanos 7:5
+
+Porque, quando estávamos na carne, as paixões dos pecados, que são pela lei, operavam em nossos membros para darem fruto para a morte.
+
+###### Romanos 7:6
+
+Mas, agora, estamos livres da lei, pois morremos para aquilo em que estávamos retidos; para que sirvamos em novidade de espírito, e não na velhice da letra.
+
+###### Romanos 7:7
+
+Que diremos, pois? É a lei pecado? De modo nenhum! Mas eu não conheci o pecado senão pela lei; porque eu não conheceria a concupiscência, se a lei não dissesse: Não cobiçarás.
+
+###### Romanos 7:8
+
+Mas o pecado, tomando ocasião pelo mandamento, despertou em mim toda a concupiscência: porquanto, sem a lei, estava morto o pecado.
+
+###### Romanos 7:9
+
+E eu, nalgum tempo, vivia sem lei, mas, vindo o mandamento, reviveu o pecado, e eu morri;
+
+###### Romanos 7:10
+
+e o mandamento que era para vida, achei eu que me era para morte.
+
+###### Romanos 7:11
+
+Porque o pecado, tomando ocasião pelo mandamento, me enganou e, por ele, me matou.
+
+###### Romanos 7:12
+
+Assim, a lei é santa; e o mandamento, santo, justo e bom.
+
+###### Romanos 7:13
+
+Logo, tornou-se-me o bom em morte? De modo nenhum! Mas o pecado, para que se mostrasse pecado, operou em mim a morte pelo bem, a fim de que pelo mandamento o pecado se fizesse excessivamente maligno.
+
+###### Romanos 7:14
+
+Porque bem sabemos que a lei é espiritual; mas eu sou carnal, vendido sob o pecado.
+
+###### Romanos 7:15
+
+Porque o que faço, não o aprovo, pois o que quero, isso não faço; mas o que aborreço, isso faço.
+
+###### Romanos 7:16
+
+E, se faço o que não quero, consinto com a lei, que é boa.
+
+###### Romanos 7:17
+
+De maneira que, agora, já não sou eu que faço isto, mas o pecado que habita em mim.
+
+###### Romanos 7:18
+
+Porque eu sei que em mim, isto é, na minha carne, não habita bem algum; e, com efeito, o querer está em mim, mas não consigo realizar o bem.
+
+###### Romanos 7:19
+
+Porque não faço o bem que quero, mas o mal que não quero, esse faço.
+
+###### Romanos 7:20
+
+Ora, se eu faço o que não quero, já o não faço eu, mas o pecado que habita em mim.
+
+###### Romanos 7:21
+
+Acho, então, esta lei em mim: que, quando quero fazer o bem, o mal está comigo.
+
+###### Romanos 7:22
+
+Porque, segundo o homem interior, tenho prazer na lei de Deus.
+
+###### Romanos 7:23
+
+Mas vejo nos meus membros outra lei que batalha contra a lei do meu entendimento e me prende debaixo da lei do pecado que está nos meus membros.
+
+###### Romanos 7:24
+
+Miserável homem que eu sou! Quem me livrará do corpo desta morte?
+
+###### Romanos 7:25
+
+Dou graças a Deus por Jesus Cristo, nosso Senhor. Assim que eu mesmo, com o entendimento, sirvo à lei de Deus, mas, com a carne, à lei do pecado.
+

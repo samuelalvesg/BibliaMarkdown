@@ -1,0 +1,146 @@
+# 1 Samuel 2
+
+###### 1 Samuel 2:1
+
+Então Ana orou, dizendo: O meu coração exulta no Senhor; o meu poder está exaltado no Senhor; a minha boca dilata-se contra os meus imimigos, porquanto me regozijo na tua salvação.
+
+###### 1 Samuel 2:2
+
+Ninguém há santo como o Senhor; não há outro fora de ti; não há rocha como a nosso Deus.
+
+###### 1 Samuel 2:3
+
+Não faleis mais palavras tão altivas, nem saia da vossa boca a arrogância; porque o Senhor é o Deus da sabedoria, e por ele são pesadas as ações.
+
+###### 1 Samuel 2:4
+
+Os arcos dos fortes estão quebrados, e os fracos são cingidos de força.
+
+###### 1 Samuel 2:5
+
+Os que eram fartos se alugam por pão, e deixam de ter fome os que eram famintos; até a estéril teve sete filhos, e a que tinha muitos filhos enfraquece.
+
+###### 1 Samuel 2:6
+
+O Senhor é o que tira a vida e a dá; faz descer ao Seol e faz subir dali.
+
+###### 1 Samuel 2:7
+
+O Senhor empobrece e enriquece; abate e também exalta.
+
+###### 1 Samuel 2:8
+
+Levanta do pó o pobre, do monturo eleva o necessitado, para os fazer sentar entre os príncipes, para os fazer herdar um trono de glória; porque do Senhor são as colunas da terra, sobre elas pôs ele o mundo.
+
+###### 1 Samuel 2:9
+
+Ele guardará os pés dos seus santos, porém os ímpios ficarão mudos nas trevas, porque o homem não prevalecerá pela força.
+
+###### 1 Samuel 2:10
+
+Os que contendem com o Senhor serão quebrantados; desde os céus trovejará contra eles. O Senhor julgará as extremidades da terra; dará força ao seu rei, e exaltará o poder do seu ungido.
+
+###### 1 Samuel 2:11
+
+Então Elcana se retirou a Ramá, à sua casa. O menino, porém, ficou servindo ao Senhor perante e sacerdote Eli.
+
+###### 1 Samuel 2:12
+
+Ora, os filhos de Eli eram homens ímpios; não conheciam ao Senhor.
+
+###### 1 Samuel 2:13
+
+Porquanto o costume desses sacerdotes para com o povo era que, oferecendo alguém um sacrifício, e estando-se a cozer a carne, vinha o servo do sacerdote, tendo na mão um garfo de três dentes,
+
+###### 1 Samuel 2:14
+
+e o metia na panela, ou no tacho, ou no caldeirão, ou na marmita; e tudo quanto a garfo tirava, o sacerdote tomava para si. Assim faziam a todos os de Israel que chegavam ali em Siló.
+
+###### 1 Samuel 2:15
+
+Também, antes de queimarem a gordura, vinha o servo do sacerdote e dizia ao homem que sacrificava: Dá carne de assar para o sacerdote; porque não receberá de ti carne cozida, mas crua.
+
+###### 1 Samuel 2:16
+
+se lhe respondia o homem: Sem dúvida, logo há de ser queimada a gordura e depois toma quanto desejar a tua alma; então ele lhe dizia: Não hás de dá-la agora; se não, à força a tomarei.
+
+###### 1 Samuel 2:17
+
+Era, pois, muito grande o pecado destes mancebos perante o Senhor, porquanto os homens vieram a desprezar a oferta do Senhor.
+
+###### 1 Samuel 2:18
+
+Samuel, porém, ministrava perante o Senhor, sendo ainda menino, vestido de um éfode de linho.
+
+###### 1 Samuel 2:19
+
+E sua mãe lhe fazia de ano em ano uma túnica pequena, e lha trazia quando com seu marido subia para oferecer o sacrifício anual.
+
+###### 1 Samuel 2:20
+
+Então Eli abençoava a Elcana e a sua mulher, e dizia: O Senhor te dê desta mulher descendência, pelo empréstimo que fez ao Senhor. E voltavam para o seu lugar.
+
+###### 1 Samuel 2:21
+
+Visitou, pois, o Senhor a Ana, que concebeu, e teve três filhos e duas filhas. Entrementes, o menino Samuel crescia diante do Senhor.
+
+###### 1 Samuel 2:22
+
+Eli era já muito velho; e ouvia tudo quanto seus filhos faziam a todo o Israel, e como se deitavam com as mulheres que ministravam à porta da tenda da revelação.
+
+###### 1 Samuel 2:23
+
+E disse-lhes: Por que fazeis tais coisas? pois ouço de todo este povo os vossos malefícios.
+
+###### 1 Samuel 2:24
+
+Não, filhos meus, não é boa fama esta que ouço. Fazeis transgredir o povo do Senhor.
+
+###### 1 Samuel 2:25
+
+Se um homem pecar contra outro, Deus o julgará; mas se um homem pecar contra o Senhor, quem intercederá por ele? Todavia eles não ouviram a voz de seu pai, porque o Senhor os queria destruir.
+
+###### 1 Samuel 2:26
+
+E o menino Samuel ia crescendo em estatura e em graça diante do Senhor, como também diante dos homens.
+
+###### 1 Samuel 2:27
+
+Veio um homem de Deus a Eli, e lhe disse: Assim diz o Senhor: Não me revelei, na verdade, à casa de teu pai, estando eles ainda no Egito, sujeitos à casa de Faraó?
+
+###### 1 Samuel 2:28
+
+E eu o escolhi dentre todas as tribos de Israel para ser o meu sacerdote, para subir ao meu altar, para queimar o incenso, e para trazer o éfode perante mim; e dei à casa de teu pai todas as ofertas queimadas dos filhos de Israel.
+
+###### 1 Samuel 2:29
+
+Por que desprezais o meu sacrifício e a minha oferta, que ordenei se fizessem na minha morada, e por que honras a teus filhos mais de que a mim, de modo a vos engordardes do principal de todas as ofertas do meu povo Israel?
+
+###### 1 Samuel 2:30
+
+Portanto, diz o Senhor Deus de Israel: Na verdade eu tinha dito que a tua casa e a casa de teu pai andariam diante de mim perpetuamente. Mas agora o Senhor diz: Longe de mim tal coisa, porque honrarei aos que me honram, mas os que me desprezam serão desprezados.
+
+###### 1 Samuel 2:31
+
+Eis que vêm dias em que cortarei o teu braço e o braço da casa de teu pai, para que não haja mais ancião algum em tua casa.
+
+###### 1 Samuel 2:32
+
+E tu, na angústia, olharás com inveja toda a prosperidade que hei de trazer sobre Israel; e não haverá por todos os dias ancião algum em tua casa.
+
+###### 1 Samuel 2:33
+
+O homem da tua linhagem a quem eu não desarraigar do meu altar será para consumir-te os olhos e para entristecer-te a alma; e todos es descendentes da tua casa morrerão pela espada dos homens.
+
+###### 1 Samuel 2:34
+
+E te será por sinal o que sobrevirá a teus dois filhos, a Hofni e a Finéias; ambos morrerão no mesmo dia.
+
+###### 1 Samuel 2:35
+
+E eu suscitarei para mim um sacerdote fiel, que fará segundo o que está no meu coração e na minha mente. Edificar-lhe-ei uma casa duradoura, e ele andará sempre diante de meu ungido.
+
+###### 1 Samuel 2:36
+
+Também todo aquele que ficar de resto da tua casa virá a inclinar-se diante dele por uma moeda de prata e por um pedaço de pão, e dirá: Rogo-te que me admitas a algum cargo sacerdotal, para que possa comer um bocado de pão.
+

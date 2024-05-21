@@ -1,0 +1,86 @@
+# 1 João 5
+
+###### 1 João 5:1
+
+Todo aquele que crê que Jesus é o Cristo é nascido de Deus; e todo aquele que ama ao que o gerou também ama ao que dele é nascido.
+
+###### 1 João 5:2
+
+Nisto conhecemos que amamos os filhos de Deus: quando amamos a Deus e praticamos os seus mandamentos.
+
+###### 1 João 5:3
+
+Porque este é o amor de Deus: que guardemos os seus mandamentos; ora, os seus mandamentos não são penosos,
+
+###### 1 João 5:4
+
+porque todo o que é nascido de Deus vence o mundo; e esta é a vitória que vence o mundo: a nossa fé.
+
+###### 1 João 5:5
+
+Quem é o que vence o mundo, senão aquele que crê ser Jesus o Filho de Deus?
+
+###### 1 João 5:6
+
+Este é aquele que veio por meio de água e sangue, Jesus Cristo; não somente com água, mas também com a água e com o sangue. E o Espírito é o que dá testemunho, porque o Espírito é a verdade.
+
+###### 1 João 5:7
+
+Pois há três que dão testemunho [no céu: o Pai, a Palavra e o Espírito Santo; e estes três são um.
+
+###### 1 João 5:8
+
+E três são os que testificam na terra]: o Espírito, a água e o sangue, e os três são unânimes num só propósito.
+
+###### 1 João 5:9
+
+Se admitimos o testemunho dos homens, o testemunho de Deus é maior; ora, este é o testemunho de Deus, que ele dá acerca do seu Filho.
+
+###### 1 João 5:10
+
+Aquele que crê no Filho de Deus tem, em si, o testemunho. Aquele que não dá crédito a Deus o faz mentiroso, porque não crê no testemunho que Deus dá acerca do seu Filho.
+
+###### 1 João 5:11
+
+E o testemunho é este: que Deus nos deu a vida eterna; e esta vida está no seu Filho.
+
+###### 1 João 5:12
+
+Aquele que tem o Filho tem a vida; aquele que não tem o Filho de Deus não tem a vida.
+
+###### 1 João 5:13
+
+Estas coisas vos escrevi, a fim de saberdes que tendes a vida eterna, a vós outros que credes em o nome do Filho de Deus.
+
+###### 1 João 5:14
+
+E esta é a confiança que temos para com ele: que, se pedirmos alguma coisa segundo a sua vontade, ele nos ouve.
+
+###### 1 João 5:15
+
+E, se sabemos que ele nos ouve quanto ao que lhe pedimos, estamos certos de que obtemos os pedidos que lhe temos feito.
+
+###### 1 João 5:16
+
+Se alguém vir a seu irmão cometer pecado não para morte, pedirá, e Deus lhe dará vida, aos que não pecam para morte. Há pecado para morte, e por esse não digo que rogue.
+
+###### 1 João 5:17
+
+Toda injustiça é pecado, e há pecado não para morte.
+
+###### 1 João 5:18
+
+Sabemos que todo aquele que é nascido de Deus não vive em pecado; antes, Aquele que nasceu de Deus o guarda, e o Maligno não lhe toca.
+
+###### 1 João 5:19
+
+Sabemos que somos de Deus e que o mundo inteiro jaz no Maligno.
+
+###### 1 João 5:20
+
+Também sabemos que o Filho de Deus é vindo e nos tem dado entendimento para reconhecermos o verdadeiro; e estamos no verdadeiro, em seu Filho, Jesus Cristo. Este é o verdadeiro Deus e a vida eterna.
+
+###### 1 João 5:21
+
+Filhinhos, guardai-vos dos ídolos.
+

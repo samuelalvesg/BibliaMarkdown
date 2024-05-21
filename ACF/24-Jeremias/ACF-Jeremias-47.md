@@ -1,0 +1,30 @@
+# Jeremias 47
+
+###### Jeremias 47:1
+
+A PALAVRA do SENHOR, que veio a Jeremias, o profeta, contra os filisteus, antes que Faraó ferisse a Gaza.
+
+###### Jeremias 47:2
+
+Assim diz o SENHOR: Eis que se levantam as águas do norte, e tornar-se-ão em torrente transbordante, e alagarão a terra e sua plenitude, a cidade, e os que nela habitam; e os homens clamarão, e todos os moradores da terra se lamentarão;
+
+###### Jeremias 47:3
+
+Ao ruído estrepitoso dos cascos dos seus fortes cavalos, ao barulho de seus carros, ao estrondo das suas rodas; os pais não atendem aos filhos, por causa da fraqueza das mãos;
+
+###### Jeremias 47:4
+
+Por causa do dia que vem, para destruir a todos os filisteus, para cortar de Tiro e de Sidom todo o restante que os socorra; porque o SENHOR destruirá os filisteus, o remanescente da ilha de Caftor.
+
+###### Jeremias 47:5
+
+A calvície veio sobre Gaza, foi desarraigada Ascalom, com o restante do seu vale; até quando te retalharás?
+
+###### Jeremias 47:6
+
+Ah; espada do SENHOR! Até quando deixarás de repousar? Volta para a tua bainha, descansa, e aquieta-te.
+
+###### Jeremias 47:7
+
+Mas como te aquietarás? Pois o SENHOR deu ordem à espada contra Ascalom, e contra a praia do mar, para onde ele a enviou.
+

@@ -1,0 +1,86 @@
+# Zacarias 14
+
+###### Zacarias 14:1
+
+Eis que vem o Dia do SENHOR, em que os teus despojos se repartirão no meio de ti.
+
+###### Zacarias 14:2
+
+Porque eu ajuntarei todas as nações para a peleja contra Jerusalém; e a cidade será tomada, e as casas serão saqueadas, e as mulheres, forçadas; metade da cidade sairá para o cativeiro, mas o restante do povo não será expulso da cidade.
+
+###### Zacarias 14:3
+
+Então, sairá o SENHOR e pelejará contra essas nações, como pelejou no dia da batalha.
+
+###### Zacarias 14:4
+
+Naquele dia, estarão os seus pés sobre o monte das Oliveiras, que está defronte de Jerusalém para o oriente; o monte das Oliveiras será fendido pelo meio, para o oriente e para o ocidente, e haverá um vale muito grande; metade do monte se apartará para o norte, e a outra metade, para o sul.
+
+###### Zacarias 14:5
+
+Fugireis pelo vale dos meus montes, porque o vale dos montes chegará até Azal; sim, fugireis como fugistes do terremoto nos dias de Uzias, rei de Judá; então, virá o SENHOR, meu Deus, e todos os santos, com ele.
+
+###### Zacarias 14:6
+
+Acontecerá, naquele dia, que não haverá luz, mas frio e gelo.
+
+###### Zacarias 14:7
+
+Mas será um dia singular conhecido do SENHOR; não será nem dia nem noite, mas haverá luz à tarde.
+
+###### Zacarias 14:8
+
+Naquele dia, também sucederá que correrão de Jerusalém águas vivas, metade delas para o mar oriental, e a outra metade, até ao mar ocidental; no verão e no inverno, sucederá isto.
+
+###### Zacarias 14:9
+
+O SENHOR será Rei sobre toda a terra; naquele dia, um só será o SENHOR, e um só será o seu nome.
+
+###### Zacarias 14:10
+
+Toda a terra se tornará como a planície de Geba a Rimom, ao sul de Jerusalém; esta será exaltada e habitada no seu lugar, desde a Porta de Benjamim até ao lugar da primeira porta, até à Porta da Esquina e desde a Torre de Hananel até aos lagares do rei.
+
+###### Zacarias 14:11
+
+Habitarão nela, e já não haverá maldição, e Jerusalém habitará segura.
+
+###### Zacarias 14:12
+
+Esta será a praga com que o SENHOR ferirá a todos os povos que guerrearem contra Jerusalém: a sua carne se apodrecerá, estando eles de pé, apodrecer-se-lhes-ão os olhos nas suas órbitas, e lhes apodrecerá a língua na boca.
+
+###### Zacarias 14:13
+
+Naquele dia, também haverá da parte do SENHOR grande confusão entre eles; cada um agarrará a mão do seu próximo, cada um levantará a mão contra o seu próximo.
+
+###### Zacarias 14:14
+
+Também Judá pelejará em Jerusalém; e se ajuntarão as riquezas de todas as nações circunvizinhas, ouro, prata e vestes em grande abundância.
+
+###### Zacarias 14:15
+
+Como esta praga, assim será a praga dos cavalos, dos mulos, dos camelos, dos jumentos e de todos os animais que estiverem naqueles arraiais.
+
+###### Zacarias 14:16
+
+Todos os que restarem de todas as nações que vieram contra Jerusalém subirão de ano em ano para adorar o Rei, o SENHOR dos Exércitos, e para celebrar a Festa dos Tabernáculos.
+
+###### Zacarias 14:17
+
+Se alguma das famílias da terra não subir a Jerusalém, para adorar o Rei, o SENHOR dos Exércitos, não virá sobre ela a chuva.
+
+###### Zacarias 14:18
+
+Se a família dos egípcios não subir, nem vier, não cairá sobre eles a chuva; virá a praga com que o SENHOR ferirá as nações que não subirem a celebrar a Festa dos Tabernáculos.
+
+###### Zacarias 14:19
+
+Este será o castigo dos egípcios e o castigo de todas as nações que não subirem a celebrar a Festa dos Tabernáculos.
+
+###### Zacarias 14:20
+
+Naquele dia, será gravado nas campainhas dos cavalos: Santo ao SENHOR; e as panelas da Casa do SENHOR serão como as bacias diante do altar;
+
+###### Zacarias 14:21
+
+sim, todas as panelas em Jerusalém e Judá serão santas ao SENHOR dos Exércitos; todos os que oferecerem sacrifícios virão, lançarão mão delas e nelas cozerão a carne do sacrifício. Naquele dia, já não haverá mercador na Casa do SENHOR dos Exércitos.
+

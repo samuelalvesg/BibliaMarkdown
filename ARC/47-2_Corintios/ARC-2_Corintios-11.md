@@ -1,0 +1,134 @@
+# 2 Coríntios 11
+
+###### 2 Coríntios 11:1
+
+Tomara que me suportásseis um pouco na minha loucura! Suportai-me, porém, ainda.
+
+###### 2 Coríntios 11:2
+
+Porque estou zeloso de vós com zelo de Deus; porque vos tenho preparado para vos apresentar como uma virgem pura a um marido, a saber, a Cristo.
+
+###### 2 Coríntios 11:3
+
+Mas temo que, assim como a serpente enganou Eva com a sua astúcia, assim também sejam de alguma sorte corrompidos os vossos sentidos e se apartem da simplicidade que há em Cristo.
+
+###### 2 Coríntios 11:4
+
+Porque, se alguém for pregar-vos outro Jesus que nós não temos pregado, ou se recebeis outro espírito que não recebestes, ou outro evangelho que não abraçastes, com razão o sofrereis.
+
+###### 2 Coríntios 11:5
+
+Porque penso que em nada fui inferior aos mais excelentes apóstolos.
+
+###### 2 Coríntios 11:6
+
+E, se sou rude na palavra, não o sou, contudo, na ciência; mas já em tudo nos temos feito conhecer totalmente entre vós.
+
+###### 2 Coríntios 11:7
+
+Pequei, porventura, humilhando-me a mim mesmo, para que vós fôsseis exaltados, porque de graça vos anunciei o evangelho de Deus?
+
+###### 2 Coríntios 11:8
+
+Outras igrejas despojei eu para vos servir, recebendo delas salário; e, quando estava presente convosco e tinha necessidade, a ninguém fui pesado.
+
+###### 2 Coríntios 11:9
+
+Porque os irmãos que vieram da Macedônia supriram a minha necessidade; e em tudo me guardei de vos ser pesado e ainda me guardarei.
+
+###### 2 Coríntios 11:10
+
+Como a verdade de Cristo está em mim, esta glória não me será impedida nas regiões da Acaia.
+
+###### 2 Coríntios 11:11
+
+Por quê? Porque vos não amo? Deus o sabe.
+
+###### 2 Coríntios 11:12
+
+Mas o que eu faço o farei para cortar ocasião aos que buscam ocasião, a fim de que, naquilo em que se gloriam, sejam achados assim como nós.
+
+###### 2 Coríntios 11:13
+
+Porque tais falsos apóstolos são obreiros fraudulentos, transfigurando-se em apóstolos de Cristo.
+
+###### 2 Coríntios 11:14
+
+E não é maravilha, porque o próprio Satanás se transfigura em anjo de luz.
+
+###### 2 Coríntios 11:15
+
+Não é muito, pois, que os seus ministros se transfigurem em ministros da justiça; o fim dos quais será conforme as suas obras.
+
+###### 2 Coríntios 11:16
+
+Outra vez digo: ninguém me julgue insensato ou, então, recebei-me como insensato, para que também me glorie um pouco.
+
+###### 2 Coríntios 11:17
+
+O que digo, não o digo segundo o Senhor, mas, como por loucura, nesta confiança de gloriar-me.
+
+###### 2 Coríntios 11:18
+
+Pois que muitos se gloriam segundo a carne, eu também me gloriarei.
+
+###### 2 Coríntios 11:19
+
+Porque, sendo vós sensatos, de boa mente tolerais os insensatos.
+
+###### 2 Coríntios 11:20
+
+Pois sois sofredores, se alguém vos põe em servidão, se alguém vos devora, se alguém vos apanha, se alguém se exalta, se alguém vos fere no rosto.
+
+###### 2 Coríntios 11:21
+
+Envergonhado o digo, como se nós fôssemos fracos, mas, no que qualquer tem ousadia (com insensatez falo), também eu tenho ousadia.
+
+###### 2 Coríntios 11:22
+
+São hebreus? Também eu. São israelitas? Também eu. São descendência de Abraão? Também eu.
+
+###### 2 Coríntios 11:23
+
+São ministros de Cristo? (Falo como fora de mim.) Eu ainda mais: em trabalhos, muito mais; em açoites, mais do que eles; em prisões, muito mais; em perigo de morte, muitas vezes.
+
+###### 2 Coríntios 11:24
+
+Recebi dos judeus cinco quarentenas de açoites menos um;
+
+###### 2 Coríntios 11:25
+
+três vezes fui açoitado com varas, uma vez fui apedrejado, três vezes sofri naufrágio, uma noite e um dia passei no abismo;
+
+###### 2 Coríntios 11:26
+
+em viagens, muitas vezes; em perigos de rios, em perigos de salteadores, em perigos dos da minha nação, em perigos dos gentios, em perigos na cidade, em perigos no deserto, em perigos no mar, em perigos entre os falsos irmãos;
+
+###### 2 Coríntios 11:27
+
+em trabalhos e fadiga, em vigílias, muitas vezes, em fome e sede, em jejum, muitas vezes, em frio e nudez.
+
+###### 2 Coríntios 11:28
+
+Além das coisas exteriores, me oprime cada dia o cuidado de todas as igrejas.
+
+###### 2 Coríntios 11:29
+
+Quem enfraquece, que eu também não enfraqueça? Quem se escandaliza, que eu não me abrase?
+
+###### 2 Coríntios 11:30
+
+Se convém gloriar-me, gloriar-me-ei no que diz respeito à minha fraqueza.
+
+###### 2 Coríntios 11:31
+
+O Deus e Pai de nosso Senhor Jesus Cristo, que é eternamente bendito, sabe que não minto.
+
+###### 2 Coríntios 11:32
+
+Em Damasco, o que governava sob o rei Aretas pôs guardas às portas da cidade dos damascenos, para me prenderem,
+
+###### 2 Coríntios 11:33
+
+e fui descido num cesto por uma janela da muralha; e assim escapei das suas mãos.
+

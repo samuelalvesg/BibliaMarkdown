@@ -1,0 +1,74 @@
+# Deuteronômio 13
+
+###### Deuteronômio 13:1
+
+Quando profeta ou sonhador de sonhos se levantar no meio de ti e te der um sinal ou prodígio,
+
+###### Deuteronômio 13:2
+
+e suceder o tal sinal ou prodígio, de que te houver falado, dizendo: Vamos após outros deuses, que não conheceste, e sirvamo-los,
+
+###### Deuteronômio 13:3
+
+não ouvirás as palavras daquele profeta ou sonhador de sonhos, porquanto o SENHOR, vosso Deus, vos prova, para saber se amais o SENHOR, vosso Deus, com todo o vosso coração e com toda a vossa alma.
+
+###### Deuteronômio 13:4
+
+Após o SENHOR, vosso Deus, andareis, e a ele temereis, e os seus mandamentos guardareis, e a sua voz ouvireis, e a ele servireis, e a ele vos achegareis.
+
+###### Deuteronômio 13:5
+
+E aquele profeta ou sonhador de sonhos morrerá, pois falou rebeldia contra o SENHOR, vosso Deus, que vos tirou da terra do Egito e vos resgatou da casa da servidão, para vos apartar do caminho que vos ordenou o SENHOR, vosso Deus, para andardes nele; assim, tirarás o mal do meio de ti.
+
+###### Deuteronômio 13:6
+
+Quando te incitar teu irmão, filho da tua mãe, ou teu filho, ou tua filha, ou a mulher do teu amor, ou teu amigo, que te é como a tua alma, dizendo-te em segredo: Vamos e sirvamos a outros deuses que não conheceste, nem tu nem teus pais,
+
+###### Deuteronômio 13:7
+
+dentre os deuses dos povos que estão em redor de vós, perto ou longe de ti, desde uma extremidade da terra até à outra extremidade,
+
+###### Deuteronômio 13:8
+
+não consentirás com ele, nem o ouvirás; nem o teu olho o poupará, nem terás piedade dele, nem o esconderás,
+
+###### Deuteronômio 13:9
+
+mas certamente o matarás; a tua mão será a primeira contra ele, para o matar; e depois a mão de todo o povo.
+
+###### Deuteronômio 13:10
+
+E com pedras o apedrejarás, até que morra, pois te procurou apartar do SENHOR, teu Deus, que te tirou da terra do Egito, da casa da servidão.
+
+###### Deuteronômio 13:11
+
+Para que todo o Israel o ouça e o tema, e não se torne a fazer segundo esta coisa má no meio de ti.
+
+###### Deuteronômio 13:12
+
+Quando ouvires dizer de alguma das tuas cidades que o SENHOR, teu Deus, te dá, para ali habitares, que
+
+###### Deuteronômio 13:13
+
+uns homens, filhos de Belial, saíram do meio de ti, que incitaram os moradores da sua cidade, dizendo: Vamos e sirvamos a outros deuses que não conheceste,
+
+###### Deuteronômio 13:14
+
+então, inquirirás, e informar-te-ás, e com diligência perguntarás; e eis que, sendo esse negócio verdade, e certo que se fez uma tal abominação no meio de ti,
+
+###### Deuteronômio 13:15
+
+então, certamente ferirás ao fio da espada os moradores daquela cidade, destruindo ao fio da espada a ela e a tudo o que nela houver, até os animais.
+
+###### Deuteronômio 13:16
+
+E ajuntarás todo o seu despojo no meio da sua praça e a cidade e todo o seu despojo queimarás totalmente para o SENHOR, teu Deus, e será montão perpétuo, nunca mais se edificará.
+
+###### Deuteronômio 13:17
+
+Também nada se pegará à tua mão do anátema, para que o SENHOR se aparte do ardor da sua ira, e te faça misericórdia, e tenha piedade de ti, e te multiplique, como jurou a teus pais,
+
+###### Deuteronômio 13:18
+
+quando ouvires a voz do SENHOR, teu Deus, para guardares todos os seus mandamentos, que hoje te ordeno, para fazeres o que for reto aos olhos do SENHOR, teu Deus.
+

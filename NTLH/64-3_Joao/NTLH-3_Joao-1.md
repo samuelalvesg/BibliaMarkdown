@@ -1,0 +1,62 @@
+# 3 João 1
+
+###### 3 João 1:1
+
+Do presbítero ao querido Gaio, a quem amo de verdade.
+
+###### 3 João 1:2
+
+Meu querido amigo, tenho pedido a Deus que você vá bem em tudo e que esteja com boa saúde, assim como está bem espiritualmente.
+
+###### 3 João 1:3
+
+Fiquei muito contente quando alguns irmãos chegaram e me contaram como você é fiel à verdade e como sempre vive na verdade.
+
+###### 3 João 1:4
+
+Nada me alegra mais do que ouvir que os meus filhos vivem de acordo com a verdade.
+
+###### 3 João 1:5
+
+Meu querido amigo, você tem sido fiel naquilo que faz pelos irmãos, mesmo quando são estrangeiros.
+
+###### 3 João 1:6
+
+Eles têm falado à igreja daqui a respeito do amor de você. Por favor, ajude essa gente a continuar a sua viagem de um modo que agrade a Deus.
+
+###### 3 João 1:7
+
+Pois eles começaram a sua viagem a serviço de Cristo sem aceitar nenhum auxílio dos pagãos.
+
+###### 3 João 1:8
+
+Portanto, nós, os cristãos, precisamos ajudar essas pessoas, pois assim poderemos tomar parte no seu trabalho de anunciar a verdade.
+
+###### 3 João 1:9
+
+Eu escrevi uma pequena carta à igreja , mas Diótrefes, que deseja ser o líder, não quer dar atenção ao que eu disse.
+
+###### 3 João 1:10
+
+Portanto, quando eu chegar aí, vou chamar a atenção dele a respeito de tudo o que ele tem feito: as coisas horríveis que diz de nós e as mentiras que conta. Porém ele não fica satisfeito só em fazer isso; pois, quando os irmãos chegam aí, ele não os recebe. E, se alguma pessoa quer recebê-los, ele não deixa e até a expulsa da igreja!
+
+###### 3 João 1:11
+
+Gaio, meu querido amigo, imite o que é bom e não o que é mau. Quem faz o bem é de Deus, e quem faz o mal nunca viu Deus.
+
+###### 3 João 1:12
+
+Todos falam bem de Demétrio, e a própria verdade fala bem dele. Nós também falamos bem a respeito dele, e você sabe que o que dizemos é verdade.
+
+###### 3 João 1:13
+
+Tenho ainda muitas coisas para contar a você, mas não quero fazer isso por carta.
+
+###### 3 João 1:14
+
+Espero vê-lo em breve, e então conversaremos pessoalmente.
+
+###### 3 João 1:15
+
+A paz esteja com você! Os seus amigos mandam saudações. Dê saudações, pessoalmente, a cada um dos nossos amigos.
+

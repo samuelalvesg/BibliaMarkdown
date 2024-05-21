@@ -1,0 +1,70 @@
+# Zacarias 9
+
+###### Zacarias 9:1
+
+A sentença pronunciada pelo SENHOR é contra a terra de Hadraque e repousa sobre Damasco, porque o SENHOR põe os olhos sobre os homens e sobre todas as tribos de Israel;
+
+###### Zacarias 9:2
+
+também repousa sobre Hamate, que confina com ele, sobre Tiro e Sidom, cuja sabedoria é grande.
+
+###### Zacarias 9:3
+
+Tiro edificou para si fortalezas e amontoou prata como o pó e ouro, como a lama das ruas.
+
+###### Zacarias 9:4
+
+Eis que o Senhor a despojará e precipitará no mar a sua força; e ela será consumida pelo fogo.
+
+###### Zacarias 9:5
+
+Asquelom o verá e temerá; também Gaza e terá grande dor; igualmente Ecrom, porque a sua esperança será iludida; o rei de Gaza perecerá, e Asquelom não será habitada.
+
+###### Zacarias 9:6
+
+Povo bastardo habitará em Asdode, e exterminarei a soberba dos filisteus.
+
+###### Zacarias 9:7
+
+Da boca destes tirarei o sangue dos sacrifícios idólatras e, dentre os seus dentes, tais abominações; então, ficarão eles como um restante para o nosso Deus; e serão como chefes em Judá, e Ecrom, como jebuseu.
+
+###### Zacarias 9:8
+
+Acampar-me-ei ao redor da minha casa para defendê-la contra forças militantes, para que ninguém passe, nem volte; que não passe mais sobre eles o opressor; porque, agora, vejo isso com os meus olhos.
+
+###### Zacarias 9:9
+
+Alegra-te muito, ó filha de Sião; exulta, ó filha de Jerusalém: eis aí te vem o teu Rei, justo e salvador, humilde, montado em jumento, num jumentinho, cria de jumenta.
+
+###### Zacarias 9:10
+
+Destruirei os carros de Efraim e os cavalos de Jerusalém, e o arco de guerra será destruído. Ele anunciará paz às nações; o seu domínio se estenderá de mar a mar e desde o Eufrates até às extremidades da terra.
+
+###### Zacarias 9:11
+
+Quanto a ti, Sião, por causa do sangue da tua aliança, tirei os teus cativos da cova em que não havia água.
+
+###### Zacarias 9:12
+
+Voltai à fortaleza, ó presos de esperança; também, hoje, vos anuncio que tudo vos restituirei em dobro.
+
+###### Zacarias 9:13
+
+Porque para mim curvei Judá como um arco e o enchi de Efraim; suscitarei a teus filhos, ó Sião, contra os teus filhos, ó Grécia! E te porei, ó Sião, como a espada de um valente.
+
+###### Zacarias 9:14
+
+O SENHOR será visto sobre os filhos de Sião, e as suas flechas sairão como o relâmpago; o SENHOR Deus fará soar a trombeta e irá com os redemoinhos do Sul.
+
+###### Zacarias 9:15
+
+O SENHOR dos Exércitos os protegerá; eles devorarão os fundibulários e os pisarão; também beberão deles o sangue como vinho; encher-se-ão como bacias do sacrifício e ficarão ensopados como os cantos do altar.
+
+###### Zacarias 9:16
+
+O SENHOR, seu Deus, naquele dia, os salvará, como ao rebanho do seu povo; porque eles são pedras de uma coroa e resplandecem na terra dele.
+
+###### Zacarias 9:17
+
+Pois quão grande é a sua bondade! E quão grande, a sua formosura! O cereal fará florescer os jovens, e o vinho, as donzelas.
+

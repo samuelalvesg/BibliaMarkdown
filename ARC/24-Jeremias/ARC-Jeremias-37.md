@@ -1,0 +1,86 @@
+# Jeremias 37
+
+###### Jeremias 37:1
+
+E reinou o rei Zedequias, filho de Josias, em lugar de Conias, filho de Jeoaquim, a quem Nabucodonosor, rei da Babilônia, constituiu rei na terra de Judá.
+
+###### Jeremias 37:2
+
+Mas nem ele, nem os seus servos, nem o povo da terra deram ouvidos às palavras do SENHOR que falou pelo ministério de Jeremias, o profeta.
+
+###### Jeremias 37:3
+
+Contudo, mandou o rei Zedequias a Jucal, filho de Selemias, e a Sofonias, filho de Maaseias, o sacerdote, ao profeta Jeremias, para lhe dizerem: Roga, agora, por nós ao SENHOR, nosso Deus.
+
+###### Jeremias 37:4
+
+E entrava e saía Jeremias entre o povo, porque não o tinham encerrado na prisão.
+
+###### Jeremias 37:5
+
+Contudo, o exército de Faraó saiu do Egito; ouvindo os caldeus que tinham sitiado Jerusalém esta notícia, retiraram-se de Jerusalém.
+
+###### Jeremias 37:6
+
+Então, veio a Jeremias, o profeta, a palavra do SENHOR, dizendo:
+
+###### Jeremias 37:7
+
+Assim diz o SENHOR, Deus de Israel: Assim direis ao rei de Judá, que vos enviou a mim, para se informar: Eis que o exército de Faraó, que saiu em vosso socorro, voltará para a sua terra no Egito.
+
+###### Jeremias 37:8
+
+E voltarão os caldeus, e pelejarão contra esta cidade, e a tomarão, e a queimarão.
+
+###### Jeremias 37:9
+
+Assim diz o SENHOR: Não enganeis a vossa alma, dizendo: Sem dúvida, se irão os caldeus de nós; porque não se irão.
+
+###### Jeremias 37:10
+
+Porque, ainda que ferísseis a todo o exército dos caldeus que peleja contra vós, e ficassem deles apenas homens traspassados, cada um se levantaria na sua tenda e queimaria a fogo esta cidade.
+
+###### Jeremias 37:11
+
+E sucedeu que, subindo de Jerusalém o exército dos caldeus, por causa do exército de Faraó,
+
+###### Jeremias 37:12
+
+saiu Jeremias de Jerusalém, a fim de ir à terra de Benjamim para receber a sua parte no meio do povo.
+
+###### Jeremias 37:13
+
+Estando ele à porta de Benjamim, achava-se ali um capitão da guarda, cujo nome era Jerias, filho de Selemias, filho de Hananias, o qual prendeu a Jeremias, o profeta, dizendo: Tu foges para os caldeus.
+
+###### Jeremias 37:14
+
+E Jeremias disse: Isso é falso; não fujo para os caldeus. Mas ele não lhe deu ouvidos; e assim Jerias prendeu a Jeremias e o levou aos príncipes.
+
+###### Jeremias 37:15
+
+E os príncipes se iraram muito contra Jeremias, e o feriram, e o puseram na prisão, na casa de Jônatas, o escrivão; porque a tinham transformado em cárcere.
+
+###### Jeremias 37:16
+
+Entrando, pois, Jeremias na casa do calabouço e nas suas celas, ficou ali Jeremias muitos dias.
+
+###### Jeremias 37:17
+
+E mandou o rei Zedequias soltá-lo. Então, o rei lhe perguntou em sua casa, em segredo, dizendo: Há alguma palavra do SENHOR? E disse Jeremias: Há. E disse ainda: Na mão do rei da Babilônia serás entregue.
+
+###### Jeremias 37:18
+
+Disse mais Jeremias ao rei Zedequias: Em que tenho pecado contra ti, e contra os teus servos, e contra este povo, para que me pusésseis na prisão?
+
+###### Jeremias 37:19
+
+Onde estão, agora, os vossos profetas que vos profetizavam, dizendo: O rei da Babilônia não virá contra vós nem contra esta terra?
+
+###### Jeremias 37:20
+
+Agora, pois, ó rei, meu senhor, caia a minha súplica diante de ti: não me deixes tornar à casa de Jônatas, o escriba, para que não venha a morrer ali.
+
+###### Jeremias 37:21
+
+Então, ordenou o rei Zedequias que pusessem Jeremias no átrio da guarda; e deram-lhe um bolo de pão cada dia, da rua dos padeiros, até que se acabou todo o pão da cidade. Assim, ficou Jeremias no átrio da guarda.
+
